@@ -1,6 +1,8 @@
 
 # 几个有用但是冷门的快捷键
 
+取自[写代码的猴子](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
+
 ### 1.合并行和文本（Join Lines and Literals）
 
   * 描述：这个操作比起在行末使劲按删除键爽多了！该操作遵守格式化规则，同时：
