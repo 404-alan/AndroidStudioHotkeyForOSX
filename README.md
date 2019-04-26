@@ -1,7 +1,7 @@
 
 # 几个有用但是冷门的快捷键
 
-取自[写代码的猴子](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
+[取自写代码的猴子](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
 
 ### 1.合并行和文本（Join Lines and Literals）
 
