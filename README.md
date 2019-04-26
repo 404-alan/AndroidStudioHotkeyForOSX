@@ -1,5 +1,5 @@
-# Hotkey
-几个有用但是冷门的快捷键
+
+# 几个有用但是冷门的快捷键
 
 ### 1.合并行和文本（Join Lines and Literals）
 
