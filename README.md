@@ -10,7 +10,7 @@
   * 快捷键：Ctrl + Shift + J；
 
   <p align="center">
-   ![合并行和文本](https://github.com/404-alan/Hotkey/blob/master/images/%E5%90%88%E5%B9%B6%E8%A1%8C%E5%92%8C%E6%96%87%E6%9C%AC.gif)
+  <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%90%88%E5%B9%B6%E8%A1%8C%E5%92%8C%E6%96%87%E6%9C%AC.gif"/>
   </p>
 
 ### 2.取反补全（Negation Completion）
@@ -19,7 +19,7 @@
   * 快捷键：代码补全的时候，按下!即可（有时需要上下键选中候选项）;
   
   <p align="center">
-   ![取反补全](https://github.com/404-alan/Hotkey/blob/master/images/%E5%8F%96%E5%8F%8D%E8%A1%A5%E5%85%A8.gif)
+   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%8F%96%E5%8F%8D%E8%A1%A5%E5%85%A8.gif"/>
   </p>
 
 ### 3.分号/点 补全（Semicolon Dot Completion）
@@ -29,7 +29,7 @@
    * 快捷键：Autocomplete + “.” 或者 “;”
 
 <p align="center">
-   ![分号/点 补全](https://github.com/404-alan/Hotkey/blob/master/images/%E5%88%86%E5%8F%B7%3A%E7%82%B9%20%E8%A1%A5%E5%85%A8.gif)
+   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%88%86%E5%8F%B7%3A%E7%82%B9%20%E8%A1%A5%E5%85%A8.gif"/>
   </p>
 
 ### 4.包裹代码（Surround With）
@@ -39,7 +39,7 @@
    * 快捷键：Cmd + Alt + T(OS X)、Ctrl + Alt + T(Windows/Linux)
 
 <p align="center">
-   ![包裹代码](https://github.com/404-alan/Hotkey/blob/master/images/%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif)
+   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif"/>
   </p>
 
 ### 5.提取变量（Extract Variable）
@@ -50,7 +50,7 @@
   * 更多：当你需要改变变量声明的类型，例如使用 List 替代 ArrayList，可以按下Shift + Tab，就会显示所有可用的变量类型。
 
 <p align="center">
-   ![提取变量](https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%98%E9%87%8F.gif)
+   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%98%E9%87%8F.gif"/>
   </p>
 
 ### 6.提取参数（Extract Parameter）
@@ -61,5 +61,5 @@
   * 更多：通过勾选“delegate”，可以保持旧的方法，重载生成一个新方法。
 
 <p align="center">
-   ![提取参数](https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif)
+   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
   </p>
