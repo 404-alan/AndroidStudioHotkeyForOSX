@@ -54,17 +54,6 @@
 <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%98%E9%87%8F.gif"/>
   </p>
-
-### 提取参数（Extract Parameter）
-
-  * 描述：这是一个提取参数的快捷操作。当你觉得可以通过提取参数来优化某个方法的时候，这个技巧将很有用。该操作会将当前值作为一个方法的参数，将旧的值放到方法调用的地方，作为传进来的参数。
-  * 调用：Menu → Refactor → Extract → Parameter
-  * 快捷键：Cmd + Alt + P
-  * 更多：通过勾选“delegate”，可以保持旧的方法，重载生成一个新方法。
-
-<p align="center">
-   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
-  </p>
   
 ### 快速查看类实现（Quick Definition Lookup）
  * 快捷键：Alt + Space / Cmd + Y
