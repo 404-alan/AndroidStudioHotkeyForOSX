@@ -38,7 +38,7 @@
 
    * 描述： 该操作可以用特定代码结构包裹住选中的代码块，通常是if语句，循环，try/catch语句或者runnable语句。 如果你没有选中任何东西，该操作会包裹当前一整行。
 
-   * 快捷键：Cmd + Alt + T(OS X)、Ctrl + Alt + T(Windows/Linux)
+   * 快捷键：Cmd + Alt + T
 
 <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif"/>
@@ -48,7 +48,7 @@
 
   * 描述：这是一个提取变量的快捷操作。当你在没有写变量声明的直接写下值的时候，这是一个很方便生成变量声明的操作，同时还会给出一个建议的变量命名。
   * 调用：Menu → Refactor → Extract → Variable
-  * 快捷键：Cmd + Alt + V(OS X)、Ctrl + Alt + V(Windows/Linux)；
+  * 快捷键：Cmd + Alt + V
   * 更多：当你需要改变变量声明的类型，例如使用 List 替代 ArrayList，可以按下Shift + Tab，就会显示所有可用的变量类型。
 
 <p align="center">
@@ -59,7 +59,7 @@
 
   * 描述：这是一个提取参数的快捷操作。当你觉得可以通过提取参数来优化某个方法的时候，这个技巧将很有用。该操作会将当前值作为一个方法的参数，将旧的值放到方法调用的地方，作为传进来的参数。
   * 调用：Menu → Refactor → Extract → Parameter
-  * 快捷键：Cmd + Alt + P(OS X)、Ctrl + Alt + P(Windows/Linux)；
+  * 快捷键：Cmd + Alt + P
   * 更多：通过勾选“delegate”，可以保持旧的方法，重载生成一个新方法。
 
 <p align="center">
@@ -67,7 +67,7 @@
   </p>
   
 ### 快速查看类实现（Quick Definition Lookup）
- * 快捷键：Alt + Space / Cmd + Y(OS X)
+ * 快捷键：Alt + Space / Cmd + Y
  
  <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/HEAD/images/%E5%BF%AB%E9%80%9F%E6%9F%A5%E7%9C%8B%E7%B1%BB%E5%AE%9A%E4%B9%89.gif"/>
@@ -80,19 +80,19 @@
   </p>
   
 ### 块选择
- * 快捷键：Cmd + Shift + 8(OS X)
+ * 快捷键：Cmd + Shift + 8
  <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E5%BF%AB%E9%80%89%E6%8B%A9.gif"/>
   </p>
   
 ### 提取参数
- * 快捷键：Cmd + Alt + P(OS X)
+ * 快捷键：Cmd + Alt + P
  <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
   </p>
  
 ###  移除包裹代码
- * 快捷键：Cmd + Shift + Delete(OS X)
+ * 快捷键：Cmd + Shift + Delete
  <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E7%A7%BB%E9%99%A4%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif"/>
   </p>
