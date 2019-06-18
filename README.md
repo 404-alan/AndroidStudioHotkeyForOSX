@@ -65,3 +65,6 @@
 <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
   </p>
+  
+## 快速查看类实现（Quick Definition Lookup）
+ * 快捷键：Alt + Space / Cmd + Y(OS X)
