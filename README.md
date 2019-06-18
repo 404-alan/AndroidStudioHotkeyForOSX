@@ -5,10 +5,6 @@
 
 ### 合并行和文本（Join Lines and Literals）
 
-  * 描述：这个操作比起在行末使劲按删除键爽多了！该操作遵守格式化规则，同时：
-    * 合并两行注释，同时移除多余的//；
-    * 合并多行字符串，移除+和双引号；
-    * 合并字段的声明和初始化赋值；
   * 快捷键：Ctrl + Shift + J；
 
   <p align="center">
@@ -24,20 +20,7 @@
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%8F%96%E5%8F%8D%E8%A1%A5%E5%85%A8.gif"/>
   </p>
 
-### 分号/点 补全（Semicolon Dot Completion）
-
-   * 描述：代码补全这个功能太棒啦！我们大概都对以下这种情况很熟悉：开始输入点什么东西，接着从IDE得到一些建议的选项，然后通过Enter或者Tab来选择我们想要的补全代码。其实还有另外一种方法来选择补全的代码：我们可以输入一个点(.)或者一个分号(;)。这样就会完成补全，添加所选字符。这在结束一条语句补全或者快速链式调用方法的时候特别有用。
-   * 注意点：如果你要代码补全的方法需要参数，这些参数会被略过。
-   * 快捷键：Autocomplete + “.” 或者 “;”
-
-<p align="center">
-   <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E5%88%86%E5%8F%B7%3A%E7%82%B9%20%E8%A1%A5%E5%85%A8.gif"/>
-  </p>
-
 ### 包裹代码（Surround With）
-
-   * 描述： 该操作可以用特定代码结构包裹住选中的代码块，通常是if语句，循环，try/catch语句或者runnable语句。 如果你没有选中任何东西，该操作会包裹当前一整行。
-
    * 快捷键：Cmd + Alt + T
 
 <p align="center">
@@ -45,11 +28,7 @@
   </p>
 
 ### 提取变量（Extract Variable）
-
-  * 描述：这是一个提取变量的快捷操作。当你在没有写变量声明的直接写下值的时候，这是一个很方便生成变量声明的操作，同时还会给出一个建议的变量命名。
-  * 调用：Menu → Refactor → Extract → Variable
   * 快捷键：Cmd + Alt + V
-  * 更多：当你需要改变变量声明的类型，例如使用 List 替代 ArrayList，可以按下Shift + Tab，就会显示所有可用的变量类型。
 
 <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%98%E9%87%8F.gif"/>
