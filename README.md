@@ -66,5 +66,34 @@
    <img src="https://github.com/404-alan/Hotkey/blob/master/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
   </p>
   
-## 快速查看类实现（Quick Definition Lookup）
+### 快速查看类实现（Quick Definition Lookup）
  * 快捷键：Alt + Space / Cmd + Y(OS X)
+ 
+ <p align="center">
+   <img src="https://github.com/404-alan/Hotkey/blob/HEAD/images/%E5%BF%AB%E9%80%9F%E6%9F%A5%E7%9C%8B%E7%B1%BB%E5%AE%9A%E4%B9%89.gif"/>
+  </p>
+  
+### Select-in
+ * 快捷键：Alt + F1
+ <p align="center">
+   <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/select-in.gif"/>
+  </p>
+  
+### 块选择
+ * 快捷键：Cmd + Shift + 8(OS X)
+ <p align="center">
+   <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E5%BF%AB%E9%80%89%E6%8B%A9.gif"/>
+  </p>
+  
+### 提取参数
+ * 快捷键：Cmd + Alt + P(OS X)
+ <p align="center">
+   <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E6%8F%90%E5%8F%96%E5%8F%82%E6%95%B0.gif"/>
+  </p>
+ 
+###  移除包裹代码
+ * 快捷键：Cmd + Shift + Delete(OS X)
+ <p align="center">
+   <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E7%A7%BB%E9%99%A4%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif"/>
+  </p>
+ 
