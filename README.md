@@ -64,4 +64,7 @@
  <p align="center">
    <img src="https://github.com/404-alan/Hotkey/blob/d1fd9b0674728ef4148f0d9d7816b49abbe2e5a6/images/%E7%A7%BB%E9%99%A4%E5%8C%85%E8%A3%B9%E4%BB%A3%E7%A0%81.gif"/>
   </p>
+  
+### 直接打开AS里的Terminal
+* 快捷键: Alt + F12
  
