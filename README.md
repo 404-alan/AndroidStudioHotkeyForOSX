@@ -68,3 +68,5 @@
 ### 直接打开AS里的Terminal
 * 快捷键: Alt + F12
  
+### Debug状态下输出变量的值
+* 快捷键: Alt + F8
